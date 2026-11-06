@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+video/
+*.webm
+logs/
+*.zip
+uploads/
+videos.db
+videos.db-wal
+videos.db-shm
